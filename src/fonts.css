@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "VazirReg";
+    font-weight: 400;
+    font-style: normal;
+    src: url("../fonts/Vazir.woff") format("woff");
+}
+@font-face {
+    font-family: "VazirBold";
+    font-weight: bold;
+    font-style: normal;
+    src: url("../fonts/Vazir-Bold.woff") format("woff");
+}
+body,button{
+    font-family: "VazirReg";
+}
+h1, h2, h3{
+    font-family: "VazirBold";
+}
